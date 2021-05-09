@@ -4,7 +4,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/bydeathlxncer/under-ddos.git
+git clone https://github.com/luc4rioninguemdescobripfr/under-ddos.git
 
 cd under-ddos
 
